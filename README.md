@@ -2,7 +2,7 @@ downl_from_inst ![Python 3.6](https://pp.userapi.com/c846523/v846523407/b716d/N3
 ======
 **downl_from_inst** – скрипт на Python для скачивания файлов из Инстаграм (instagram.com)
 
-Usage: py_inst_img.py <***user***> <***count_imgs[>12]***> <***login***> <***password***>
+Usage: py_inst_img.py <***user***> <***count_imgs***> <***login***> <***password***>
 
 Обязательные параметры
 ------------
@@ -28,9 +28,9 @@ python3 downl_from_inst.py _ierathel_ 15 login password
 geckodriver
 ------------
 Geckodriver – это адаптер, преобразователь из протокола W3C WebDriver в протокол Marionette.
-Marionette – это название протокола и встроенного в браузер сервера для удалённой отладки. 
+Marionette – это название протокола и встроенного в браузер сервера для удалённой отладки.   
 Подробнее о geckodriver здесь:
 [http://barancev.github.io/geckodriver/](http://barancev.github.io/geckodriver/)
-
+  
 Свежий geckodriver можно найти здесь:
 [https://github.com/mozilla/geckodriver/releases/](https://github.com/mozilla/geckodriver/releases/)
