@@ -21,7 +21,7 @@ python3 downl_from_inst.py _ierathel_ 15 login password
 
 Библиотека instagram
 ------------
-В работе скрипт использует библиотеку instagram.py
+В работе скрипт использует библиотеку instagram.py  
 Подробнее о библиотеке здесь:
 [https://habr.com/post/339620/](https://habr.com/post/339620/)
 
